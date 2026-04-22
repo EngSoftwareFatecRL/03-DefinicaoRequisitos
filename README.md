@@ -8,7 +8,7 @@ Realizar o **levantamento de requisitos** a partir de um cenário fictício, uti
 - **Pensamento crítico** sobre os outputs gerados pela IA (identificando erros, omissões e vieses).
 - Domínio na criação de user stories com critérios de aceitação **claros e testáveis**.
 
-> **Ferramenta de IA recomendada:** [GitHub Copilot Chat](https://docs.github.com/pt/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide) (disponível no VS Code). O aluno pode optar por outra plataforma de IA generativa (ChatGPT, Claude, Gemini, etc.), desde que documente os prompts e respostas obtidas.
+> **Ferramenta de IA recomendada:** [GitHub Copilot Chat](https://docs.github.com/pt/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide) (disponível no VS Code). O aluno pode optar por outra plataforma de IA generativa (ChatGPT, Claude, Gemini, etc.), desde que documente os prompts.
 
 -----
 
@@ -37,7 +37,7 @@ Antes de criar as user stories, o grupo deve explorar o uso de IA generativa par
 ### 🔹 Passo 0.1: Configuração da Ferramenta de IA
 
 1. **GitHub Copilot Chat (recomendado):** Abra o VS Code, instale a extensão **GitHub Copilot Chat** e faça login com sua conta GitHub (com acesso ao Copilot).
-2. **Outra plataforma:** Caso opte por outra ferramenta (ChatGPT, Claude, etc.), certifique-se de copiar integralmente todos os prompts e respostas para o documento de entrega.
+2. **Outra plataforma:** Caso opte por outra ferramenta (ChatGPT, Claude, etc.), certifique-se de copiar integralmente todos os prompts para o documento de entrega.
 
 ### 🔹 Passo 0.2: Gerando Requisitos com IA
 
@@ -84,7 +84,7 @@ Após obter a primeira resposta da IA, **crie pelo menos 2 variações do prompt
 - Questionar omissões: *"Quais requisitos importantes para uma plataforma colaborativa universitária você não incluiu? Gere user stories para eles."*
 - Pedir requisitos não-funcionais: *"Gere user stories focadas em segurança, desempenho e acessibilidade."*
 
-> **Registre todos os prompts e respostas.** Eles fazem parte da entrega avaliada.
+> **Registre todos os prompts.** Eles fazem parte da entrega avaliada.
 
 -----
 
@@ -230,10 +230,10 @@ A entrega da atividade deverá ser feita através da aba **"Tarefas"** no Micros
 
       * Tire uma cópia de tela nítida da sua tela de **"Boards" \> "Backlogs"** no Azure DevOps, mostrando a lista de User Stories criadas e priorizadas.
 
-3.  **Documento de Prompts e Respostas da IA:**
+3.  **Documento de Prompts:**
 
-      * Arquivo (PDF ou Markdown) contendo **todos os prompts** utilizados durante a atividade e as **respostas completas** da IA.
-      * Para cada prompt, inclua: a ferramenta utilizada, o prompt exato e a resposta obtida.
+      * Arquivo (PDF ou Markdown) contendo **todos os prompts** utilizados durante a atividade.
+      * Para cada prompt, inclua: a ferramenta utilizada, o prompt exato.
       * Este artefato será avaliado quanto à **qualidade da engenharia de prompts** (clareza, especificidade, iteração).
 
 4.  **Seção "Análise Crítica do Uso de IA":**
